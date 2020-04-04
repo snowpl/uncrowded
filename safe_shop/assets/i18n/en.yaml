@@ -1,0 +1,38 @@
+views:
+  main:
+    title: Uncrowded
+    tabs:
+      list: List
+      map: Map
+      info: Info
+      shoppingList: Shopping cart
+  common:
+    filters:
+      open_now: Open now
+      nearby: Nearby
+      safe: Safe
+    closed: Closed
+    opened: Opened
+    opening_hours: Opening hours
+    open_from: Open from
+    open_until: Open until
+    search:
+      hint: Search nearby
+    report_problem: Click here to report an issue
+  info:
+    title: Importand informations abour coronavirus
+    read_more: Read more
+  feedback:
+    thank_you: Thank you
+    interval: Thank you. We have already received feedback from you
+    labels:
+      crowded_level: Occupancy level
+      rating: Rating
+      message: Message
+    slider:
+      min: No queues
+      medium: Moderate queues up to 5 people
+      max: Big queues up to 30 people
+    hints:
+      message: Provide more information
+    button: Send

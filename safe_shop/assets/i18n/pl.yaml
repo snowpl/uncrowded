@@ -1,0 +1,38 @@
+views:
+  main:
+    title: Bez kolejki
+    tabs:
+      list: Lista
+      map: Mapa
+      info: Info
+      shoppingList: Lista Zakupów
+  common:
+    filters:
+      open_now: Otwarte teraz
+      nearby: W pobliżu
+      safe: Bezpieczne
+    closed: Zamknięte
+    opened: Otwarte
+    opening_hours: Godziny otwarcia
+    open_from: Otwarte od
+    open_until: Otwarte do
+    search:
+      hint: Szukaj w okolicy
+    report_problem: Kliknij aby zgłosić problem
+  info:
+    title: Ważne informacje o koronawirusie
+    read_more: Czytaj więcej
+  feedback:
+    thank_you: Dziękujemy
+    interval: Dziękujemy, już otrzymaliśmy Twoje zgłoszenie
+    labels:
+      crowded_level: Aktualne obłożenie
+      rating: Ocena sklepu
+      message: Wiadomość
+    slider:
+      min: Bez kolejek
+      medium: Umiarkowane kolejki do 5 osób
+      max: Bardzo duże kolejki do 30 osób
+    hints:
+      message: Dodaj więcej informacji
+    button: Wyślij
